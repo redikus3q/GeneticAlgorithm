@@ -1,0 +1,12 @@
+{
+    "n": 20,
+    "a": -3,
+    "b": 2,
+    "A": 2,
+    "B": 5,
+    "C": -5,
+    "precizie": 4,
+    "probRecomb": 0.4,
+    "probMutatie": 0.02,
+    "nrEtape": 150
+}

@@ -1,0 +1,356 @@
+Marimea populatiei: 20
+f(x) = 2.0x^2 + 5.0x + -5.0
+Definita pe [-3.0, 2.0)
+Precizia discretizarii: 4 zecimale
+Probabilitatea de recombinare: 0.4
+Probabilitatea de mutatie: 0.02
+Numarul de etape: 150
+
+Populatia de inceput:
+Individ 1: 0110000010011100 cu int = -1.1131 cu f = 0.0
+Individ 2: 1111111110010011 cu int = 1.9918 cu f = 20.98105126
+Individ 3: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 4: 1001100000010011 cu int = -0.0298 cu f = 2.9402928599999996
+Individ 5: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 6: 0001110011000011 cu int = -2.4382 cu f = 2.786155260000001
+Individ 7: 0011110111011000 cu int = -1.7921 cu f = 0.5502615999999998
+Individ 8: 1110100010111000 cu int = 1.5454 cu f = 15.591039100000001
+Individ 9: 0110000101111100 cu int = -1.096 cu f = 0.009948780000000212
+Individ 10: 0100001111111100 cu int = -1.6722 cu f = 0.31902246000000023
+Individ 11: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 12: 0100000100110110 cu int = -1.7263 cu f = 0.4162401600000001
+Individ 13: 0111100101011111 cu int = -0.6294 cu f = 0.7328054999999996
+Individ 14: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 15: 0011011111001010 cu int = -1.9104 cu f = 0.8347731000000005
+Individ 16: 0011100110011001 cu int = -1.875 cu f = 0.7437667799999996
+Individ 17: 1101111001001110 cu int = 1.342 cu f = 13.399444780000001
+Individ 18: 0000100001101101 cu int = -2.8354 cu f = 4.9895030999999985
+Individ 19: 1110101100110100 cu int = 1.5939 cu f = 16.1380512
+Individ 20: 0111100100101001 cu int = -0.6336 cu f = 0.7224146999999999
+
+Inainte de etapa 1 average fitness: 7.292405065000001 si average max -0.7951117149999994 cu max 12.89353448
+
+Situatia etapei 1 de selectie:
+
+Elitistul generatiei este: [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1]
+Fitness total: 145.84810130000002
+
+Probabilitati:
+Individ 1: cu probabilitate = 0.0
+Individ 2: cu probabilitate = 0.12068680156345646
+Individ 3: cu probabilitate = 0.02015996666252109
+Individ 4: cu probabilitate = 0.10523435384619571
+Individ 5: cu probabilitate = 0.019103130141331505
+Individ 6: cu probabilitate = 0.003772840339334604
+Individ 7: cu probabilitate = 0.10689915714384414
+Individ 8: cu probabilitate = 6.821329802255171e-05
+Individ 9: cu probabilitate = 0.0021873610774252854
+Individ 10: cu probabilitate = 0.1346540388592635
+Individ 11: cu probabilitate = 0.0028539292338391246
+Individ 12: cu probabilitate = 0.005024443194448356
+Individ 13: cu probabilitate = 0.08299129774135768
+Individ 14: cu probabilitate = 0.005723578795742611
+Individ 15: cu probabilitate = 0.005099598646609187
+Individ 16: cu probabilitate = 0.09187260348654261
+Individ 17: cu probabilitate = 0.03421027120357855
+Individ 18: cu probabilitate = 0.11064971745367519
+Individ 19: cu probabilitate = 0.0049531992090458546
+
+Intervale:
+Individ 1: cu intervalul = [0, 0.0)
+Individ 2: cu intervalul = [0.0, 0.12068680156345646)
+Individ 3: cu intervalul = [0.12068680156345646, 0.14084676822597755)
+Individ 4: cu intervalul = [0.14084676822597755, 0.24608112207217325)
+Individ 5: cu intervalul = [0.24608112207217325, 0.2651842522135048)
+Individ 6: cu intervalul = [0.2651842522135048, 0.2689570925528394)
+Individ 7: cu intervalul = [0.2689570925528394, 0.3758562496966835)
+Individ 8: cu intervalul = [0.3758562496966835, 0.37592446299470605)
+Individ 9: cu intervalul = [0.37592446299470605, 0.37811182407213134)
+Individ 10: cu intervalul = [0.37811182407213134, 0.5127658629313948)
+Individ 11: cu intervalul = [0.5127658629313948, 0.5156197921652339)
+Individ 12: cu intervalul = [0.5156197921652339, 0.5206442353596823)
+Individ 13: cu intervalul = [0.5206442353596823, 0.60363553310104)
+Individ 14: cu intervalul = [0.60363553310104, 0.6093591118967826)
+Individ 15: cu intervalul = [0.6093591118967826, 0.6144587105433917)
+Individ 16: cu intervalul = [0.6144587105433917, 0.7063313140299343)
+Individ 17: cu intervalul = [0.7063313140299343, 0.7405415852335129)
+Individ 18: cu intervalul = [0.7405415852335129, 0.851191302687188)
+Individ 19: cu intervalul = [0.851191302687188, 1.0)
+
+Generare de numere:
+S-a generat 0.5531255286429593 si deci am ales individul 13
+S-a generat 0.525546922413135 si deci am ales individul 13
+S-a generat 0.5107460371838526 si deci am ales individul 10
+S-a generat 0.4597093786858366 si deci am ales individul 10
+S-a generat 0.29804054725895934 si deci am ales individul 7
+S-a generat 0.06790223217071012 si deci am ales individul 2
+S-a generat 0.5081445291406878 si deci am ales individul 10
+S-a generat 0.17925530192320516 si deci am ales individul 4
+S-a generat 0.10936072876380243 si deci am ales individul 2
+S-a generat 0.03678761519583962 si deci am ales individul 2
+S-a generat 0.2015364103983851 si deci am ales individul 4
+S-a generat 0.48948544775987635 si deci am ales individul 10
+S-a generat 0.4588096407655383 si deci am ales individul 10
+S-a generat 0.42253926950271437 si deci am ales individul 10
+S-a generat 0.0120146217066196 si deci am ales individul 2
+S-a generat 0.6728274910446073 si deci am ales individul 16
+S-a generat 0.16239072584396663 si deci am ales individul 4
+S-a generat 0.8901372259788145 si deci am ales individul 19
+S-a generat 0.7067212174074564 si deci am ales individul 17
+
+Populatia dupa selectie:
+Individ 1: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 2: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 3: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 4: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 5: 1110100010111000 cu int = 1.5454 cu f = 15.591039100000001
+Individ 6: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 7: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 8: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 9: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 10: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 11: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 12: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 13: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 14: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 15: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 16: 1101111001001110 cu int = 1.342 cu f = 13.399444780000001
+Individ 17: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 18: 0111100100101001 cu int = -0.6336 cu f = 0.7224146999999999
+Individ 19: 0000100001101101 cu int = -2.8354 cu f = 4.9895030999999985
+
+
+Etapa de recombinare:
+
+Populatia dupa shuffle:
+Individ 1: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 2: 1110100010111000 cu int = 1.5454 cu f = 15.591039100000001
+Individ 3: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 4: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 5: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 6: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 7: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 8: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 9: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 10: 1101111001001110 cu int = 1.342 cu f = 13.399444780000001
+Individ 11: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 12: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 13: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 14: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 15: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 16: 0000100001101101 cu int = -2.8354 cu f = 4.9895030999999985
+Individ 17: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 18: 0111100100101001 cu int = -0.6336 cu f = 0.7224146999999999
+Individ 19: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+
+Se fac alegerile:
+A fost ales individul 3.
+A fost ales individul 7.
+A fost ales individul 14.
+
+Deci populatia selectata pentru recombinare este:
+Individ 1: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 2: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 3: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+
+Se combina individul 1: 1101011111000000 cu 2: 1111000110100110 si 3: 1110011110011011
+Punct de rupere: 1
+Ies indivizii: 1111000110100110 si 1110011110011011 si 1101011111000000
+
+Noua populatie dupa recombinare (ultimii 3 au fost recombinati):
+Individ 1: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 2: 1110100010111000 cu int = 1.5454 cu f = 15.591039100000001
+Individ 3: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 4: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 5: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 6: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 7: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 8: 1101111001001110 cu int = 1.342 cu f = 13.399444780000001
+Individ 9: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 10: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 11: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 12: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 13: 0000100001101101 cu int = -2.8354 cu f = 4.9895030999999985
+Individ 14: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 15: 0111100100101001 cu int = -0.6336 cu f = 0.7224146999999999
+Individ 16: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 17: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 18: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 19: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+
+
+Etapa de mutatie:
+Nu a avut loc nicio mutatie
+
+Populatia dupa mutatii, care va fi pasata la pasul urmator:
+Individ 1: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 2: 1110100010111000 cu int = 1.5454 cu f = 15.591039100000001
+Individ 3: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 4: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 5: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 6: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 7: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 8: 1101111001001110 cu int = 1.342 cu f = 13.399444780000001
+Individ 9: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 10: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 11: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 12: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 13: 0000100001101101 cu int = -2.8354 cu f = 4.9895030999999985
+Individ 14: 1111101000110001 cu int = 1.8866 cu f = 19.639035900000003
+Individ 15: 0111100100101001 cu int = -0.6336 cu f = 0.7224146999999999
+Individ 16: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 17: 1111000110100110 cu int = 1.7198 cu f = 17.60194086
+Individ 18: 1110011110011011 cu int = 1.5236 cu f = 15.3482307
+Individ 19: 1101011111000000 cu int = 1.2139 cu f = 12.104123199999998
+Individ 20: 1111111110010011 cu int = 1.9918 cu f = 20.98105126
+
+Dupa etapa 1 average fitness: 14.986503814000006 si average max 7.621401734 cu max 12.89353448
+Dupa etapa 2 average fitness: 12.762823491000002 si average max 7.7050926109999995 cu max 12.89353448
+Dupa etapa 3 average fitness: 9.552302683000002 si average max 9.552302683000002 cu max 12.89353448
+Dupa etapa 4 average fitness: 10.098473645000002 si average max 10.098473645000002 cu max 12.89353448
+Dupa etapa 5 average fitness: 9.175688002000001 si average max 9.175688002000001 cu max 12.89353448
+Dupa etapa 6 average fitness: 9.268991949 si average max 9.268991949 cu max 12.89353448
+Dupa etapa 7 average fitness: 10.115826221 si average max 10.115826221 cu max 12.89353448
+Dupa etapa 8 average fitness: 10.946225134 si average max 10.946225134 cu max 12.89353448
+Dupa etapa 9 average fitness: 11.261445006999999 si average max 11.261445006999999 cu max 12.89353448
+Dupa etapa 10 average fitness: 11.255432850000002 si average max 11.255432850000002 cu max 12.89353448
+Dupa etapa 11 average fitness: 11.336410447000002 si average max 11.336410447000002 cu max 12.89353448
+Dupa etapa 12 average fitness: 11.862423961 si average max 11.862423961 cu max 12.89353448
+Dupa etapa 13 average fitness: 11.706182142000001 si average max 11.706182142000001 cu max 12.89353448
+Dupa etapa 14 average fitness: 11.953166876000001 si average max 11.953166876000001 cu max 12.89353448
+Dupa etapa 15 average fitness: 12.289256748 si average max 12.289256748 cu max 12.89353448
+Dupa etapa 16 average fitness: 12.143602553000001 si average max 12.143602553000001 cu max 12.89353448
+Dupa etapa 17 average fitness: 12.441251155 si average max 12.441251155 cu max 12.89353448
+Dupa etapa 18 average fitness: 12.451643267 si average max 12.451643267 cu max 12.89353448
+Dupa etapa 19 average fitness: 12.150815219 si average max 12.150815219 cu max 12.89353448
+Dupa etapa 20 average fitness: 12.371673696 si average max 11.984064916 cu max 12.89353448
+Dupa etapa 21 average fitness: 12.600721910999999 si average max 12.600721910999999 cu max 12.89353448
+Dupa etapa 22 average fitness: 12.550715356999998 si average max 12.550715356999998 cu max 12.89353448
+Dupa etapa 23 average fitness: 12.550715357 si average max 12.550715357 cu max 12.89353448
+Dupa etapa 24 average fitness: 12.600886504 si average max 12.600886504 cu max 12.89353448
+Dupa etapa 25 average fitness: 12.313010928 si average max 12.313010928 cu max 12.89353448
+Dupa etapa 26 average fitness: 12.663476993 si average max 12.663476993 cu max 12.89353448
+Dupa etapa 27 average fitness: 12.650893057999998 si average max 12.650893057999998 cu max 12.89353448
+Dupa etapa 28 average fitness: 12.638309122999999 si average max 12.638309122999999 cu max 12.89353448
+Dupa etapa 29 average fitness: 12.403110773 si average max 12.015501993000003 cu max 12.89353448
+Dupa etapa 30 average fitness: 12.664249193 si average max 12.664249193 cu max 12.89353448
+Dupa etapa 31 average fitness: 12.651665258000001 si average max 12.651665258000001 cu max 12.89353448
+Dupa etapa 32 average fitness: 12.578940036000002 si average max 12.578940036000002 cu max 12.89353448
+Dupa etapa 33 average fitness: 12.651600921 si average max 12.651600921 cu max 12.89353448
+Dupa etapa 34 average fitness: 12.275194786 si average max 12.275194786 cu max 12.89353448
+Dupa etapa 35 average fitness: 11.924793058 si average max 11.924793058 cu max 12.89353448
+Dupa etapa 36 average fitness: 11.937376993 si average max 11.937376993 cu max 12.89353448
+Dupa etapa 37 average fitness: 12.262675188000001 si average max 12.262675188000001 cu max 12.89353448
+Dupa etapa 38 average fitness: 12.287650053 si average max 12.287650053 cu max 12.89353448
+Dupa etapa 39 average fitness: 12.688451858 si average max 12.688451858 cu max 12.89353448
+Dupa etapa 40 average fitness: 12.713619728000001 si average max 12.713619728000001 cu max 12.89353448
+Dupa etapa 41 average fitness: 12.751564538000004 si average max 12.751564538000004 cu max 12.89353448
+Dupa etapa 42 average fitness: 12.751564538000002 si average max 12.751564538000002 cu max 12.89353448
+Dupa etapa 43 average fitness: 12.738980603000002 si average max 12.738980603000002 cu max 12.89353448
+Dupa etapa 44 average fitness: 12.776732408000004 si average max 12.776732408000004 cu max 12.89353448
+Dupa etapa 45 average fitness: 12.788928011000003 si average max 12.788928011000003 cu max 12.89353448
+Dupa etapa 46 average fitness: 12.814419876000006 si average max 12.814419876000006 cu max 12.89353448
+Dupa etapa 47 average fitness: 12.814419876000006 si average max 12.814419876000006 cu max 12.89353448
+Dupa etapa 48 average fitness: 12.820772824000006 si average max 12.820772824000006 cu max 12.95062888
+Dupa etapa 49 average fitness: 12.837696204000006 si average max 12.837696204000006 cu max 12.95062888
+Dupa etapa 50 average fitness: 12.834913009000005 si average max 12.834913009000005 cu max 12.95062888
+Dupa etapa 51 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 52 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 53 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 54 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 55 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 56 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 57 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 58 average fitness: 12.779980261000004 si average max 12.779980261000004 cu max 12.95062888
+Dupa etapa 59 average fitness: 12.364550154000005 si average max 12.364550154000005 cu max 12.95062888
+Dupa etapa 60 average fitness: 12.049005261000005 si average max 12.049005261000005 cu max 12.95062888
+Dupa etapa 61 average fitness: 12.730037654000004 si average max 12.730037654000004 cu max 12.95062888
+Dupa etapa 62 average fitness: 12.730037654000004 si average max 12.730037654000004 cu max 12.95062888
+Dupa etapa 63 average fitness: 12.729649322000004 si average max 12.729649322000004 cu max 12.95062888
+Dupa etapa 64 average fitness: 12.680095047000004 si average max 12.680095047000004 cu max 12.95062888
+Dupa etapa 65 average fitness: 12.580209833000003 si average max 12.580209833000003 cu max 12.95062888
+Dupa etapa 66 average fitness: 12.530267226000003 si average max 12.530267226000003 cu max 12.95062888
+Dupa etapa 67 average fitness: 12.480324619000005 si average max 12.480324619000005 cu max 12.95062888
+Dupa etapa 68 average fitness: 12.730037654000004 si average max 12.730037654000004 cu max 12.95062888
+Dupa etapa 69 average fitness: 12.410502947999994 si average max 12.177072868000005 cu max 12.95062888
+Dupa etapa 70 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 71 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 72 average fitness: 12.412121772999994 si average max 12.178691693000005 cu max 12.95062888
+Dupa etapa 73 average fitness: 12.831153061000004 si average max 12.831153061000004 cu max 12.95062888
+Dupa etapa 74 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 75 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 76 average fitness: 12.817338933000006 si average max 12.817338933000006 cu max 12.95062888
+Dupa etapa 77 average fitness: 12.804754998000003 si average max 12.804754998000003 cu max 12.95062888
+Dupa etapa 78 average fitness: 12.792171063000003 si average max 12.792171063000003 cu max 12.95062888
+Dupa etapa 79 average fitness: 12.817338933000006 si average max 12.817338933000006 cu max 12.95062888
+Dupa etapa 80 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 81 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 82 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 83 average fitness: 18.877152947999996 si average max 11.836722868000006 cu max 12.95062888
+Dupa etapa 84 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 85 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 86 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 87 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 88 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 89 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 90 average fitness: 12.804831048000006 si average max 12.804831048000006 cu max 12.95062888
+Dupa etapa 91 average fitness: 12.804831048000002 si average max 12.804831048000002 cu max 12.95062888
+Dupa etapa 92 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 93 average fitness: 18.877152947999996 si average max 11.836722868000006 cu max 12.95062888
+Dupa etapa 94 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 95 average fitness: 12.805737388000006 si average max 12.805737388000006 cu max 12.95062888
+Dupa etapa 96 average fitness: 12.805607928000004 si average max 12.805607928000004 cu max 12.95062888
+Dupa etapa 97 average fitness: 12.804831048000006 si average max 12.804831048000006 cu max 12.95062888
+Dupa etapa 98 average fitness: 12.779739228000006 si average max 12.779739228000006 cu max 12.95062888
+Dupa etapa 99 average fitness: 12.779350896000004 si average max 12.779350896000004 cu max 12.95062888
+Dupa etapa 100 average fitness: 12.728778924000006 si average max 12.728778924000006 cu max 12.95062888
+Dupa etapa 101 average fitness: 12.413475064000004 si average max 12.413475064000004 cu max 12.95062888
+Dupa etapa 102 average fitness: 12.752317416000004 si average max 12.752317416000004 cu max 12.95062888
+Dupa etapa 103 average fitness: 12.753094080000006 si average max 12.753094080000006 cu max 12.95062888
+Dupa etapa 104 average fitness: 12.586102357000005 si average max 12.586102357000005 cu max 12.95062888
+Dupa etapa 105 average fitness: 12.778897837000004 si average max 12.778897837000004 cu max 12.95062888
+Dupa etapa 106 average fitness: 12.803860203000003 si average max 12.803860203000003 cu max 12.95062888
+Dupa etapa 107 average fitness: 12.826494689000004 si average max 12.826494689000004 cu max 12.95062888
+Dupa etapa 108 average fitness: 12.826624143000004 si average max 12.826624143000004 cu max 12.95062888
+Dupa etapa 109 average fitness: 12.826624143000004 si average max 12.826624143000004 cu max 12.95062888
+Dupa etapa 110 average fitness: 12.826688870000007 si average max 12.826688870000007 cu max 12.95062888
+Dupa etapa 111 average fitness: 12.636960416000004 si average max 12.636960416000004 cu max 12.95062888
+Dupa etapa 112 average fitness: 12.637089870000006 si average max 12.637089870000006 cu max 12.95062888
+Dupa etapa 113 average fitness: 12.829146186000003 si average max 12.829146186000003 cu max 12.95062888
+Dupa etapa 114 average fitness: 12.829469809000006 si average max 12.829469809000006 cu max 12.95062888
+Dupa etapa 115 average fitness: 12.829081477000006 si average max 12.829081477000006 cu max 12.95062888
+Dupa etapa 116 average fitness: 12.828563697000003 si average max 12.828563697000003 cu max 12.95062888
+Dupa etapa 117 average fitness: 12.829340361000003 si average max 12.829340361000003 cu max 12.95062888
+Dupa etapa 118 average fitness: 12.829340361000003 si average max 12.829340361000003 cu max 12.95062888
+Dupa etapa 119 average fitness: 12.731063401000004 si average max 12.731063401000004 cu max 12.95062888
+Dupa etapa 120 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 121 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 122 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 123 average fitness: 12.624829558000005 si average max 12.624829558000005 cu max 12.95062888
+Dupa etapa 124 average fitness: 12.817338933000006 si average max 12.817338933000006 cu max 12.95062888
+Dupa etapa 125 average fitness: 18.877929827999996 si average max 11.837499748000004 cu max 12.95062888
+Dupa etapa 126 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 127 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 128 average fitness: 12.731257576000004 si average max 12.731257576000004 cu max 12.95062888
+Dupa etapa 129 average fitness: 12.632592284000003 si average max 12.632592284000003 cu max 12.95062888
+Dupa etapa 130 average fitness: 12.632592284000003 si average max 12.632592284000003 cu max 12.95062888
+Dupa etapa 131 average fitness: 12.731257576000004 si average max 12.731257576000004 cu max 12.95062888
+Dupa etapa 132 average fitness: 12.731257576000004 si average max 12.731257576000004 cu max 12.95062888
+Dupa etapa 133 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 134 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 135 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 136 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 137 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 138 average fitness: 12.637413493000006 si average max 12.637413493000006 cu max 12.95062888
+Dupa etapa 139 average fitness: 12.830699748000004 si average max 12.830699748000004 cu max 12.95062888
+Dupa etapa 140 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 141 average fitness: 12.831541693000005 si average max 12.831541693000005 cu max 12.95062888
+Dupa etapa 142 average fitness: 12.831541693000005 si average max 12.831541693000005 cu max 12.95062888
+Dupa etapa 143 average fitness: 12.833160518000005 si average max 12.833160518000005 cu max 12.95062888
+Dupa etapa 144 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 145 average fitness: 12.830052328000004 si average max 12.830052328000004 cu max 12.95062888
+Dupa etapa 146 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 147 average fitness: 12.829922868000006 si average max 12.829922868000006 cu max 12.95062888
+Dupa etapa 148 average fitness: 12.804831048000006 si average max 12.804831048000006 cu max 12.95062888
+Dupa etapa 149 average fitness: 12.804831048000002 si average max 12.804831048000002 cu max 12.95062888
+Dupa etapa 150 average fitness: 12.804636873000003 si average max 12.804636873000003 cu max 12.95062888
